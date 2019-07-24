@@ -1,0 +1,25 @@
+.top{
+	width: 100%;
+	height: 200px;
+}
+.intop{ 
+	width: 600px;
+	text-align: center;
+}
+.mid{
+	width: 100%;
+	height: 50px;
+	background:#fcba03;
+	display: none;
+	margin-top: 150px;
+}
+.knopka{
+	width:70px; 
+	height: 50px;
+	background:black;
+
+}
+.info{
+	text-align: center;
+}
+img{max-width: 100%;}
